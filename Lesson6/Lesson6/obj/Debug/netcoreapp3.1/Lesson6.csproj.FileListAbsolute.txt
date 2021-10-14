@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lesson6\Lesson6\bin\Debug\netcoreapp3.1\Lesson6.exe
+C:\Users\user\source\repos\Lesson6\Lesson6\bin\Debug\netcoreapp3.1\Lesson6.deps.json
+C:\Users\user\source\repos\Lesson6\Lesson6\bin\Debug\netcoreapp3.1\Lesson6.runtimeconfig.json
+C:\Users\user\source\repos\Lesson6\Lesson6\bin\Debug\netcoreapp3.1\Lesson6.runtimeconfig.dev.json
+C:\Users\user\source\repos\Lesson6\Lesson6\bin\Debug\netcoreapp3.1\Lesson6.dll
+C:\Users\user\source\repos\Lesson6\Lesson6\bin\Debug\netcoreapp3.1\Lesson6.pdb
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.AssemblyInfo.cs
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.dll
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.pdb
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.genruntimeconfig.cache
+C:\Users\user\source\repos\Lesson6\Lesson6\obj\Debug\netcoreapp3.1\Lesson6.csproj.AssemblyReference.cache
